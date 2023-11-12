@@ -19,7 +19,7 @@ Make sure you have `bash` and `ping` installed on your system.
 2. Navigate to the script directory:
 
     ```bash
-    cd ping-bulk-ips
+    cd ping_bulk_ips
     ```
 
 3. Make the script executable:
