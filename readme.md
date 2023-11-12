@@ -13,7 +13,7 @@ Make sure you have `bash` and `ping` installed on your system.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/ping-bulk-ips.git
+    git clone https://github.com/vahid97gh/ping_bulk_ips.git
     ```
 
 2. Navigate to the script directory:
