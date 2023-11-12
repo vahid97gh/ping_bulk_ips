@@ -54,4 +54,4 @@ Make sure you have `bash` and `ping` installed on your system.
 ```
 ## License
 
-This project is licensed under the LORES License - see the LICENSE file for details.
+This project is licensed under the LORES License .
